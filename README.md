@@ -80,15 +80,5 @@
 ---
 
 
----
-
-## 📅 Update Log
-
-11월 11일 22시 40분 초기 구성만 작성
-11월 12일 14시 00분 education, skills 작성 
-11월 12일 16시 30분 projects 작성, education 간략화
-
-할 일 : 자기 소개, about me 작성하기, 
----
 
 
